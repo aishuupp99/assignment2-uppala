@@ -10,6 +10,12 @@
     3. Goa
 2. Take cabs
     1. From Goa international airport take cab to baga beach.
+## Items to be brought to favourite location for maximum enjoyment
+- beachware
+- hat
+- waterbottle
+- whisky
+
 
 
 
