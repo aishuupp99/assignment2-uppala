@@ -3,7 +3,7 @@
 ###### goa is my fav place
 **Goa** having lot of **beaches** and cool climate.
 * * *
-##From maryville to kansas airport travel directions:
+## From maryville to kansas airport travel directions:
 1. take flight
     1. chicago
     2. Delhi
