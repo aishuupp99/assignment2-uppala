@@ -28,6 +28,12 @@
 |Khalakand | Hyderabad | 75 |
 |Mutton Biryani | Bawarchi | 120 |
 
+***Favorite Quotations***
+ 
+# Inspiring Quotations
+>**Everyday** is a new chance for **starting over** <br>
+>The best **preparation** for tomorrow is doing your **best today**.
+*H. Jackson Brown, Jr.*
 
 
 
