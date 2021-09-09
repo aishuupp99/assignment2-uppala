@@ -18,6 +18,15 @@
 
 [Aishu](AboutMe.md)
 
+*** food Information ***
+
+**food reco** that I would recommend others
+|food/drink item| Location| money to pay |
+| --- | --- | ---:|
+|Biryani | Shah ghouse | 200 |
+|Gulab Jamun | MTR | 30 |
+|Khalakand | Hyderabad | 75 |
+|Mutton Biryani | Bawarchi | 120 |
 
 
 
